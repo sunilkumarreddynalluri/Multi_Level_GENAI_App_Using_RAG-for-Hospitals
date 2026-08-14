@@ -1,0 +1,106 @@
+# INSURANCE & TPA DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Insurance Policies, Claim Procedures, Empanelment List, FAQs for RAG Ingestion
+
+## SECTION 1: OVERVIEW OF INSURANCE SERVICES
+
+Q: What types of insurance does the hospital accept?
+A: The hospital accepts:
+1. Cashless insurance through empanelled Third Party Administrators (TPAs) and insurance companies
+2. Reimbursement claims (patient pays first, then claims from insurer)
+3. Government health schemes (Ayushman Bharat - PM-JAY, state government schemes like Aarogyasri)
+4. Corporate Group Health Insurance (GHI) policies
+5. International medical insurance (for select global insurers, with prior verification)
+
+Q: What is the difference between "cashless" and "reimbursement" claims?
+A: In cashless claims, the hospital directly bills the insurer/TPA, and the patient pays only non-covered amounts (co-pay, deductibles, non-medical items). In reimbursement claims, the patient pays the full bill at discharge and submits documents to their insurer separately for reimbursement; the hospital provides all necessary documents (discharge summary, itemized bill, reports) for this purpose.
+
+## SECTION 2: EMPANELLED TPAs AND INSURANCE COMPANIES (SAMPLE LIST)
+
+| TPA / Insurer Name | Type | Cashless Limit (Per Claim) | Pre-Authorization TAT |
+|---|---|---|---|
+| Star Health Insurance | Insurer | Up to Sum Insured | 2-4 hours |
+| ICICI Lombard Health | Insurer | Up to Sum Insured | 2-4 hours |
+| Medi Assist TPA | TPA | As per policy | 4-6 hours |
+| MD India Healthcare TPA | TPA | As per policy | 4-6 hours |
+| Paramount Health Services TPA | TPA | As per policy | 6-8 hours |
+| Vidal Health TPA | TPA | As per policy | 4-6 hours |
+| Ayushman Bharat (PM-JAY) | Govt Scheme | Up to Rs. 5,00,000/family/year | Real-time portal approval |
+| Aarogyasri (Telangana State Scheme) | Govt Scheme | As per package rates | Real-time portal approval |
+| New India Assurance | Insurer | Up to Sum Insured | 4-6 hours |
+| Bajaj Allianz Health | Insurer | Up to Sum Insured | 2-4 hours |
+
+TAT = Turnaround Time for pre-authorization approval.
+
+## SECTION 3: CASHLESS CLAIM PROCESS (STEP-BY-STEP)
+
+1. **Verification**: Patient/family submits insurance card, policy number, and ID proof at the Insurance Desk (BD-01 to BD-04).
+2. **Eligibility Check**: Insurance Desk Officer verifies policy validity, sum insured balance, and room rent eligibility via the TPA portal.
+3. **Pre-Authorization Request (PAR)**: For planned admissions, the PAR is submitted at least 48-72 hours in advance with estimated treatment cost, diagnosis, and proposed procedure. For emergencies, PAR is submitted within 24 hours of admission.
+4. **Initial Approval**: TPA/insurer issues an initial approval letter, often for a partial amount, pending final bill submission.
+5. **Enhancement Requests**: If treatment costs exceed the initial approval (e.g., complications, extended ICU stay), the hospital submits an "enhancement request" with updated clinical notes.
+6. **Final Settlement**: At discharge, the final bill, discharge summary, and all reports are submitted to the TPA. The hospital receives payment directly from the insurer within the agreed credit period (typically 15-45 days).
+7. **Patient Responsibility**: The patient settles only the non-payable items: co-pay percentage, deductibles, items excluded under the policy (e.g., admission kit, non-medical consumables), and any amount exceeding the approved sum.
+
+## SECTION 4: DOCUMENTS REQUIRED FOR INSURANCE PROCESSING
+
+For Cashless:
+- Original insurance/health card or e-card
+- Government photo ID matching the policy holder/dependent name
+- Policy number and TPA ID card
+- Doctor's admission advice with provisional diagnosis
+- Previous medical records (for pre-existing condition claims)
+
+For Reimbursement:
+- Original detailed bill with hospital seal and signature
+- Original discharge summary
+- All diagnostic reports (lab, imaging)
+- Pharmacy bills (original, with prescription)
+- Payment receipts
+- Duly filled claim form (insurer-specific)
+- KYC documents of the policyholder
+
+## SECTION 5: COMMON EXCLUSIONS AND CO-PAY SCENARIOS
+
+Q: What items are typically NOT covered by insurance (non-payable)?
+A: Common non-payable items include: admission kit/toiletries, registration fee, telephone/TV charges in room, attendant food charges, walking aids/crutches (unless specified), and any cosmetic or elective procedures not medically necessitated.
+
+Q: What is "co-pay" and how is it calculated?
+A: Co-pay is the percentage of the claim amount the patient must pay out-of-pocket, as defined by their policy (commonly 10%, 20%, or a fixed amount for senior citizens or specific treatments). Example: If a Rs. 2,00,000 bill has a 10% co-pay clause, the patient pays Rs. 20,000 and the insurer pays Rs. 1,80,000 (subject to other deductions).
+
+Q: What happens if the room occupied exceeds the policy's room rent eligibility?
+A: If a patient occupies a room above their entitled category (e.g., policy covers up to Semi-Private but patient stays in Private Room), a "proportionate deduction" clause may apply — all associated charges (doctor fees, procedure costs) are proportionately reduced based on the ratio of eligible room rent to actual room rent, in addition to the room rent difference being charged to the patient.
+
+## SECTION 6: GOVERNMENT SCHEME PROCEDURES
+
+Q: How does Ayushman Bharat (PM-JAY) cashless treatment work at this hospital?
+A: Eligible patients (identified via Ayushman Bharat Golden Card / ration card database) are verified at the dedicated PM-JAY kiosk (near BD-04). The Arogya Mitra (scheme coordinator) creates an e-card if not already issued, raises a pre-authorization request through the National Health Authority portal, and upon approval, the entire treatment package (as per CGHS/PM-JAY rate list) is provided cashless to the patient.
+
+Q: Is Aarogyasri available for all departments?
+A: Aarogyasri (Telangana state scheme) covers approximately 1,059 listed procedures across cardiology, neurology/neurosurgery, oncology, nephrology, and other specialties, primarily for BPL (Below Poverty Line) cardholders. The Aarogyasri Health Care Trust kiosk at the hospital assists with eligibility verification and procedure-package mapping.
+
+## SECTION 7: SAMPLE PRE-AUTHORIZATION REQUEST (DEMO DATA)
+
+PRE-AUTH REQUEST FORM
+Patient Name: Lakshmi Narayanan | UHID: VIH-2026-004524 | Age/Gender: 67/F
+Policy No.: ICICI-HLT-88231090 | TPA: Medi Assist
+Diagnosis: Acute Coronary Syndrome - NSTEMI
+Proposed Treatment: Coronary Angiography + Possible Angioplasty with Stent
+Estimated Cost: Rs. 2,30,000
+Room Category Requested: Private Room (Policy Eligible: Private Room)
+Admission Date: To be admitted same day (Emergency)
+Status: APPROVED - Initial Authorization Rs. 1,50,000 (Enhancement request to follow post-angiography based on findings)
+
+## SECTION 8: INSURANCE DESK FAQs
+
+Q: How long does pre-authorization take for a planned cardiac procedure?
+A: For most private insurers, 2-4 hours during business hours (9 AM - 6 PM). For TPAs, it may take 4-8 hours. Submitting the request 48 hours in advance for planned (non-emergency) admissions is strongly recommended.
+
+Q: What if the insurance pre-authorization is denied?
+A: The Insurance Desk Officer informs the patient/family immediately, explains the reason for denial (e.g., policy exclusion, insufficient sum insured, waiting period not completed), and offers the option to proceed as a self-pay patient with billing department guidance, or to appeal the denial with additional medical justification from the treating doctor.
+
+Q: Can a patient use two insurance policies together (e.g., employer policy + personal policy)?
+A: Yes, this is called "coordination of benefits." The primary insurer is billed first; any remaining balance (after primary settlement) can be claimed from the secondary insurer via reimbursement, subject to both insurers' terms.
+
+Q: Who handles insurance queries after hospital hours?
+A: The Insurance Desk operates from 8:00 AM to 8:00 PM. After hours, the Duty Manager assists with documentation, but pre-authorization approvals from TPAs typically resume the next business day unless the TPA has a 24/7 helpline (e.g., Star Health, ICICI Lombard).

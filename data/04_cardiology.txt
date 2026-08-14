@@ -1,0 +1,122 @@
+# CARDIOLOGY DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Clinical FAQs, Procedures, Doctor Profiles, Sample Case Records for RAG Ingestion
+# DISCLAIMER: This is SYNTHETIC TRAINING DATA for educational RAG/LLM application development.
+# It is NOT real patient data and must NOT be used for actual clinical decision-making.
+
+## SECTION 1: DEPARTMENT OVERVIEW
+
+The Cardiology Department at Vihara Multispeciality Hospital provides comprehensive cardiac care including preventive cardiology, diagnostics, interventional cardiology, electrophysiology, and cardiac rehabilitation. The department operates a dedicated Cardiac Catheterization Lab (Cath Lab) and a 12-bed Cardiac ICU (CICU).
+
+Q: What services does the Cardiology Department offer?
+A: Services include ECG, 2D Echocardiography, Treadmill Test (TMT), Holter Monitoring, Coronary Angiography, Angioplasty (PTCA with stenting), Pacemaker implantation, Electrophysiology Studies (EPS), Cardiac CT/MRI coordination, and Cardiac Rehabilitation programs.
+
+Q: What are the operating hours of the Cardiology OPD?
+A: Cardiology OPD operates Monday-Saturday, 8:00 AM - 6:00 PM, located on the 1st Floor, A Wing (Rooms C-201 to C-204). Emergency cardiac cases are handled 24/7 via the ER and Cath Lab on-call team.
+
+## SECTION 2: DOCTOR PROFILES (SAMPLE)
+
+| Doctor Name | Designation | Specialization | OPD Days | Room |
+|---|---|---|---|---|
+| Dr. Anjali Reddy | Senior Consultant Cardiologist | Interventional Cardiology | Mon, Wed, Fri | C-201 |
+| Dr. Suresh Babu Nair | Consultant Cardiologist | Electrophysiology & Pacemakers | Tue, Thu, Sat | C-202 |
+| Dr. Kiran Chandran | Cardiac Surgeon | CABG, Valve Surgery | Mon-Fri (Surgery), Sat OPD | C-203 |
+| Dr. Anjali Reddy (2nd slot) | Senior Consultant | Preventive Cardiology / Lipid Clinic | Tue, Thu | C-204 |
+
+## SECTION 3: COMMON CARDIAC CONDITIONS - PATIENT EDUCATION FAQs
+
+Q: What is Coronary Artery Disease (CAD)?
+A: CAD occurs when the coronary arteries (blood vessels supplying the heart muscle) become narrowed or blocked due to plaque buildup (atherosclerosis), reducing blood flow to the heart and potentially causing chest pain (angina) or heart attack (myocardial infarction).
+
+Q: What are common symptoms of a heart attack that should prompt immediate ER visit?
+A: Chest pain or pressure (often radiating to the left arm, jaw, or back), shortness of breath, cold sweats, nausea, lightheadedness, and unexplained fatigue. Any of these symptoms warrant immediate emergency care — patients should call the hospital's 24/7 emergency line or go directly to the ER.
+
+Q: What is an ECG (Electrocardiogram) and why is it done?
+A: An ECG records the electrical activity of the heart and helps detect arrhythmias, evidence of heart attack (current or past), and other heart abnormalities. It is a quick, painless test taking about 5-10 minutes.
+
+Q: What is the difference between an Angiography and an Angioplasty?
+A: Angiography is a diagnostic procedure using contrast dye and X-ray imaging to visualize blockages in coronary arteries. Angioplasty (PTCA) is a therapeutic procedure where a balloon catheter (often with a stent) is used to open the blocked artery. Angiography may lead directly to angioplasty if a significant blockage is found ("diagnostic-to-therapeutic" same-sitting procedure).
+
+Q: What is a Treadmill Test (TMT) / Stress Test?
+A: TMT evaluates how the heart performs under physical exertion by monitoring ECG changes, blood pressure, and symptoms while the patient walks on a treadmill at increasing speed/incline. It helps diagnose CAD, assess exercise tolerance, and evaluate treatment effectiveness.
+
+Q: What pre-procedure preparation is required for an Angiography?
+A: Patient should fast for 6 hours prior, inform the doctor of any kidney issues (due to contrast dye risk) or allergies, continue prescribed medications unless instructed otherwise (some blood thinners may need adjustment), and arrange for a 1-day hospital stay for observation.
+
+Q: What is cardiac rehabilitation and who needs it?
+A: Cardiac rehabilitation is a supervised program of exercise training, education, and counseling for patients recovering from heart attack, angioplasty, bypass surgery, or heart failure. It typically spans 8-12 weeks and aims to improve cardiovascular fitness and reduce recurrence risk.
+
+## SECTION 4: SAMPLE CARDIOLOGY CASE RECORDS (SYNTHETIC DEMO DATA)
+
+### CASE 1
+UHID: VIH-2026-004521 | Name: Ramesh Kumar Patil | Age/Sex: 58/M
+Chief Complaint: Chest discomfort and shortness of breath for 2 days, worse on exertion.
+History: Hypertensive for 10 years (on Telmisartan 40mg), Type 2 Diabetic for 6 years (on Metformin 500mg BD), smoker (quit 2 years ago, 20 pack-years history).
+Vitals: BP 148/92 mmHg, HR 88 bpm, SpO2 97%, Temp 98.4°F
+Investigations:
+- ECG: ST depression in leads V4-V6
+- Troponin-I: 0.8 ng/mL (elevated, normal <0.04)
+- 2D Echo: LVEF 48%, mild hypokinesia of inferior wall
+Diagnosis: Non-ST Elevation Myocardial Infarction (NSTEMI)
+Plan: Admit to CICU, dual antiplatelet therapy (Aspirin 150mg + Clopidogrel 300mg loading), Atorvastatin 80mg, Coronary Angiography planned next morning.
+Outcome: Angiography revealed 80% stenosis in LAD (Left Anterior Descending artery); successful angioplasty with drug-eluting stent placement. Discharged after 3 days with dual antiplatelet therapy, beta-blocker, statin, and cardiac rehab referral.
+
+### CASE 2
+UHID: VIH-2026-004524 | Name: Lakshmi Narayanan | Age/Sex: 67/F
+Chief Complaint: Sudden onset breathlessness and palpitations.
+History: Known case of Rheumatic Heart Disease with Mitral Stenosis, diagnosed 15 years ago. On regular follow-up.
+Vitals: BP 110/70 mmHg, HR 132 bpm (irregular), SpO2 92% on room air
+Investigations:
+- ECG: Atrial Fibrillation with rapid ventricular response
+- 2D Echo: Severe Mitral Stenosis (valve area 0.9 cm²), moderate Pulmonary Hypertension, left atrial enlargement
+Diagnosis: Acute decompensation of Rheumatic Mitral Stenosis with new-onset Atrial Fibrillation
+Plan: Rate control with IV Diltiazem, anticoagulation with Heparin (bridge to oral anticoagulant), oxygen support, evaluation for Balloon Mitral Valvotomy (BMV) or valve replacement.
+Outcome: Successful rate control achieved within 24 hours; Balloon Mitral Valvotomy performed on day 3; discharged on day 6 on anticoagulation (Warfarin with INR monitoring), beta-blocker, and diuretics.
+
+### CASE 3
+UHID: VIH-2026-004540 | Name: Mohammed Yusuf Khan | Age/Sex: 45/M
+Chief Complaint: Routine health checkup; found to have high cholesterol on screening.
+History: Family history of premature CAD (father had heart attack at 50). No personal symptoms. Sedentary lifestyle, BMI 29.4 (overweight).
+Vitals: BP 132/84 mmHg, HR 76 bpm
+Investigations:
+- Lipid Profile: Total Cholesterol 248 mg/dL, LDL 168 mg/dL, HDL 38 mg/dL, Triglycerides 210 mg/dL
+- ECG: Normal sinus rhythm
+- TMT: Negative for ischemia, good exercise tolerance (achieved 9 METs)
+Diagnosis: Dyslipidemia with elevated cardiovascular risk (ASCVD risk score: 12% over 10 years)
+Plan: Lifestyle modification counseling (diet, exercise - referred to cardiac rehab dietitian), Atorvastatin 20mg daily, follow-up lipid profile in 3 months.
+Outcome: Patient counseled and started on statin therapy; enrolled in preventive cardiology follow-up program (Dr. Anjali Reddy's Lipid Clinic, Tuesdays).
+
+## SECTION 5: CARDIAC MEDICATIONS - REFERENCE GUIDE (COMMONLY PRESCRIBED)
+
+| Medication | Class | Common Use | Typical Dose Range |
+|---|---|---|---|
+| Aspirin | Antiplatelet | CAD, post-MI, post-stent | 75-150 mg OD |
+| Clopidogrel | Antiplatelet (P2Y12 inhibitor) | Post-stent (DAPT) | 75 mg OD |
+| Atorvastatin | Statin (lipid-lowering) | Dyslipidemia, CAD secondary prevention | 10-80 mg OD |
+| Metoprolol | Beta-blocker | Hypertension, post-MI, arrhythmia | 25-100 mg BD |
+| Telmisartan | ARB (antihypertensive) | Hypertension | 20-80 mg OD |
+| Furosemide | Loop diuretic | Heart failure, fluid overload | 20-80 mg OD/BD |
+| Warfarin | Anticoagulant | Atrial fibrillation, mechanical valves | Dose adjusted per INR (target 2-3) |
+| Digoxin | Cardiac glycoside | Heart failure, AFib rate control | 0.125-0.25 mg OD |
+
+## SECTION 6: CATH LAB AND CICU INFRASTRUCTURE
+
+Q: How many Cath Labs does the hospital have and what equipment is available?
+A: The hospital has 2 Cath Labs equipped with biplane fluoroscopy systems, IVUS (Intravascular Ultrasound), and IABP (Intra-Aortic Balloon Pump) support, capable of performing both diagnostic and interventional procedures including complex PCI and electrophysiology studies.
+
+Q: What is the bed capacity of the Cardiac ICU (CICU)?
+A: The CICU has 12 beds, each equipped with continuous cardiac monitoring, ventilator support, and defibrillators. Nurse-to-patient ratio in CICU is maintained at 1:2.
+
+## SECTION 7: CARDIOLOGY DEPARTMENT FAQs
+
+Q: How soon can a patient get an appointment for a routine cardiology consultation?
+A: Routine consultations are typically available within 1-3 days. Urgent referrals from other departments (e.g., positive stress test, abnormal ECG) are prioritized for same-day or next-day slots.
+
+Q: Does the hospital provide second-opinion consultations for cardiac surgery?
+A: Yes, patients with surgical recommendations from elsewhere can request a second opinion. Reports (angiography films, echo reports) should be brought for review; a separate consultation fee applies.
+
+Q: What is the typical hospital stay duration after angioplasty?
+A: Uncomplicated angioplasty typically requires 1-2 days of hospital stay (1 day CICU observation + 1 day ward, or same-day discharge in select low-risk cases performed via radial access).
+
+Q: Is fasting required before all cardiac tests?
+A: Fasting (6-8 hours) is required for Angiography, Lipid Profile blood tests, and some Stress Echo protocols. ECG, 2D Echo (routine), and Holter monitoring do not require fasting.

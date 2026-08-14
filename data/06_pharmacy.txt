@@ -1,0 +1,55 @@
+# PHARMACY DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Policies, Drug Formulary Excerpts, FAQs for RAG Ingestion
+# DISCLAIMER: Synthetic training data for educational RAG/LLM application development only.
+
+## SECTION 1: PHARMACY SERVICES OVERVIEW
+
+Q: What are the pharmacy's operating hours?
+A: The main pharmacy (Ground Floor, Main Lobby, Counters PH-001 to PH-003) operates 24 hours, 7 days a week. A satellite pharmacy near the Emergency Department also operates 24/7 for urgent medication needs.
+
+Q: Does the hospital pharmacy stock all prescribed medications?
+A: The pharmacy stocks approximately 1,200 SKUs covering common formulary medications across all departments. For rare or specialty drugs not in stock, the pharmacy coordinates with empanelled external pharmacies for same-day or next-day procurement.
+
+Q: How are inpatient medications dispensed and billed?
+A: For IPD patients, medications are dispensed via a unit-dose system directly to the ward, charged automatically to the patient's bill through the Hospital Information System (HIS), itemized by drug name, batch number, quantity, and rate.
+
+Q: Can patients bring their own medications from outside?
+A: Outpatients may continue home medications as advised by the doctor. For inpatients, all medications brought from outside must be verified and approved by the treating doctor/pharmacist before administration, to avoid duplication or interaction issues; in most cases, hospital-supplied medication is used during admission.
+
+## SECTION 2: GENERIC SUBSTITUTION AND PRICING POLICY
+
+Q: Does the pharmacy offer generic medication alternatives?
+A: Yes. As per hospital policy and patient consent, generic equivalents (same active ingredient, different brand) may be substituted for branded medications, typically offering 30-60% cost savings, unless the prescribing doctor specifies "no substitution."
+
+Q: Are medication prices the same as MRP (Maximum Retail Price)?
+A: The hospital pharmacy sells at MRP or below for most medications. Select chronic disease medications (diabetes, hypertension, cardiac) are offered at a discounted rate (5-10% below MRP) under the hospital's "Chronic Care Savings Program" for enrolled patients.
+
+## SECTION 3: SAMPLE FORMULARY EXCERPT (COMMON MEDICATIONS, ILLUSTRATIVE PRICING)
+
+| Drug Name | Category | Pack Size | MRP (INR) | Generic Available |
+|---|---|---|---|---|
+| Paracetamol 650mg | Analgesic/Antipyretic | 15 tablets | 30 | Yes |
+| Atorvastatin 20mg | Statin | 10 tablets | 145 | Yes |
+| Metformin 500mg | Antidiabetic | 20 tablets | 55 | Yes |
+| Telmisartan 40mg | Antihypertensive | 10 tablets | 110 | Yes |
+| Clopidogrel 75mg | Antiplatelet | 15 tablets | 220 | Yes |
+| Levetiracetam 500mg | Anti-epileptic | 10 tablets | 180 | Yes |
+| Dexamethasone 4mg Injection | Corticosteroid | 1 vial | 25 | Yes |
+| Temozolomide 100mg | Chemotherapy | 5 capsules | 9,500 | Limited |
+| Insulin Glargine | Antidiabetic (injectable) | 1 pen (3ml) | 650 | Yes |
+| Enoxaparin 40mg Injection | Anticoagulant | 1 prefilled syringe | 480 | Yes |
+
+## SECTION 4: PHARMACY FAQs
+
+Q: What is the procedure for handling expired or near-expiry medications?
+A: The pharmacy follows a FEFO (First-Expiry-First-Out) dispensing protocol. Stock nearing expiry (within 3 months) is flagged in the inventory system for prioritized dispensing or return to suppliers as per agreements; expired stock is segregated and disposed of per biomedical waste guidelines, never dispensed.
+
+Q: How does the pharmacy handle narcotic/controlled substances?
+A: Controlled substances (e.g., Morphine, Fentanyl, certain benzodiazepines) are stored in a separate locked cabinet, dispensed only against a doctor's prescription on a controlled-drug register, with dual verification (pharmacist + nurse) and entries logged per the Narcotic Drugs and Psychotropic Substances (NDPS) Act requirements.
+
+Q: Can a discharged patient get a refill of their prescription from the hospital pharmacy?
+A: Yes, discharged patients can present their discharge prescription at the outpatient pharmacy counter for refills, valid for up to 30 days from the date of discharge for chronic medications, or as specified by the prescribing doctor.
+
+Q: Is home delivery of medicines available?
+A: Yes, for registered patients, the ViharaCare app allows ordering prescription refills with home delivery within a 15 km radius, typically delivered within 4-6 hours for in-stock items.

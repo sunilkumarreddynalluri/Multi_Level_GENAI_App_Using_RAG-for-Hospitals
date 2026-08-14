@@ -1,0 +1,113 @@
+# RECEPTION & FRONT DESK DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Department FAQ, SOPs, and Reference Data for RAG Ingestion
+
+## SECTION 1: HOSPITAL TIMINGS AND GENERAL INFORMATION
+
+Q: What are the hospital's OPD (Outpatient Department) timings?
+A: The OPD operates Monday to Saturday from 8:00 AM to 8:00 PM. On Sundays, OPD runs only from 9:00 AM to 1:00 PM for emergency consultations and pre-booked appointments.
+
+Q: Is the hospital open 24/7?
+A: Yes. The Emergency Department, Pharmacy, Diagnostic Lab, and Radiology (X-Ray, CT, MRI) operate 24 hours a day, 7 days a week, including public holidays.
+
+Q: What are the visiting hours for inpatients?
+A: General ward visiting hours are 11:00 AM to 1:00 PM and 5:00 PM to 7:00 PM. ICU visiting hours are restricted to 10 minutes per visit, twice daily (12:00 PM and 6:00 PM), with a maximum of two visitors per patient.
+
+Q: Where is the hospital located and how can I reach it?
+A: The hospital is located at Plot 14, Banjara Hills Road No. 12, Hyderabad, Telangana - 500034. It is accessible via Hospital Helpline +91-40-4567-8900, which is operational 24/7.
+
+## SECTION 2: APPOINTMENT BOOKING PROCEDURES
+
+Q: How can a patient book an appointment?
+A: Appointments can be booked through four channels:
+1. Walk-in registration at the front desk (Counter 1-4, Ground Floor)
+2. Phone booking via the central helpline +91-40-4567-8900
+3. Online booking through the hospital's patient portal at portal.viharahospital.com
+4. Mobile app (ViharaCare App) available on Android and iOS
+
+Q: What information is required to book a new patient appointment?
+A: For first-time patients, the receptionist must collect: full name, date of birth, gender, contact number, residential address, emergency contact name and number, government ID (Aadhaar/PAN/Passport/Voter ID), and the department or doctor requested. A unique Hospital ID (UHID) is generated and printed on the patient's ID card.
+
+Q: What is the format of the UHID (Unique Hospital ID)?
+A: The UHID format is VIH-YYYY-XXXXXX, where YYYY is the year of registration and XXXXXX is a 6-digit sequential number. Example: VIH-2026-004532.
+
+Q: Can a patient book an appointment with a specific doctor?
+A: Yes, patients may request a specific consultant. If that doctor's slots are full, the receptionist offers the next available slot or suggests an alternate consultant in the same department.
+
+Q: What is the average waiting time for OPD consultation?
+A: Average waiting time is 20-30 minutes for pre-booked appointments and 45-60 minutes for walk-in patients, depending on department load.
+
+## SECTION 3: DEPARTMENT DIRECTORY AND ROOM ALLOCATION
+
+The following departments and their locations are maintained at the front desk for patient guidance:
+
+| Department | Floor | Wing | OPD Room Numbers |
+|---|---|---|---|
+| General Medicine | Ground Floor | A Wing | G-101 to G-105 |
+| Cardiology | 1st Floor | A Wing | C-201 to C-204 |
+| Neurology / Neurosurgery | 2nd Floor | B Wing | N-301 to N-305 |
+| Orthopedics | 1st Floor | B Wing | O-210 to O-213 |
+| Pediatrics | Ground Floor | C Wing | P-115 to P-118 |
+| Gynecology & Obstetrics | 1st Floor | C Wing | GY-220 to GY-223 |
+| Dermatology | Ground Floor | A Wing | D-106 to D-107 |
+| ENT | 2nd Floor | A Wing | E-310 to E-312 |
+| Oncology | 3rd Floor | B Wing | ON-401 to ON-405 |
+| Radiology / Imaging | Basement 1 | All Wings | R-B01 to R-B06 |
+| Pathology Lab | Basement 1 | A Wing | L-B07 to L-B09 |
+| Pharmacy | Ground Floor | Main Lobby | PH-001 to PH-003 |
+| Emergency (ER) | Ground Floor | D Wing (Separate Entrance) | ER-01 to ER-08 |
+| Billing & Insurance Desk | Ground Floor | Main Lobby | BD-01 to BD-04 |
+
+## SECTION 4: PATIENT REGISTRATION TYPES
+
+1. **New Patient Registration**: First visit; UHID created; registration fee Rs. 150 (waived for emergency cases).
+2. **Returning Patient**: Existing UHID retrieved via mobile number or UHID card; no new registration fee.
+3. **Referral Patient**: Patient referred from another hospital or clinic; referral letter must be scanned and attached to the patient record.
+4. **Corporate/TPA Patient**: Patient covered under a corporate health scheme or Third Party Administrator (TPA); ID card and authorization letter verified before registration.
+5. **Emergency Registration**: Expedited registration where treatment begins immediately and paperwork is completed within 24 hours or upon stabilization.
+
+## SECTION 5: SAMPLE PATIENT QUEUE LOG (FOR REFERENCE / DEMO DATA)
+
+| Token No. | UHID | Patient Name | Age | Department | Doctor | Appointment Time | Status |
+|---|---|---|---|---|---|---|---|
+| T-101 | VIH-2026-004521 | Ramesh Kumar Patil | 58 | Cardiology | Dr. Anjali Reddy | 09:00 AM | Completed |
+| T-102 | VIH-2026-004522 | Sunitha Rao | 34 | Gynecology | Dr. Meera Iyer | 09:15 AM | Completed |
+| T-103 | VIH-2026-004523 | Arjun Verma | 45 | Neurology | Dr. Vikram Sehgal | 09:30 AM | In Progress |
+| T-104 | VIH-2026-004524 | Lakshmi Narayanan | 67 | Cardiology | Dr. Anjali Reddy | 09:45 AM | Waiting |
+| T-105 | VIH-2026-004525 | Faisal Ahmed | 29 | Orthopedics | Dr. Rohan Mehta | 10:00 AM | Waiting |
+| T-106 | VIH-2026-004526 | Priya Deshmukh | 5 | Pediatrics | Dr. Kavita Joshi | 10:00 AM | Waiting |
+| T-107 | VIH-2026-004527 | George Thomas | 71 | Neurology | Dr. Vikram Sehgal | 10:15 AM | Waiting |
+| T-108 | VIH-2026-004528 | Anitha Subramaniam | 39 | Dermatology | Dr. Neha Kapoor | 10:30 AM | Scheduled |
+
+## SECTION 6: COMMON RECEPTION FAQs
+
+Q: What documents should a patient carry for admission?
+A: Government-issued photo ID, UHID card (if returning patient), insurance card or policy number (if applicable), doctor's admission advice letter, and any previous medical records or referral letters.
+
+Q: How does a patient request a duplicate UHID card?
+A: The patient must visit the registration desk with photo ID proof. A duplicate card is issued after verification, with a nominal fee of Rs. 50.
+
+Q: What is the procedure if a patient wants to change their registered mobile number or address?
+A: The patient fills out a "Patient Detail Update Form" available at the front desk, submits valid proof of the new address/number, and the receptionist updates the Hospital Information System (HIS) within 24 hours.
+
+Q: How are emergency walk-ins prioritized at reception?
+A: Emergency cases bypass the regular token system and are immediately directed to the Emergency Department (ER-01 to ER-08). The receptionist alerts the duty nurse via the emergency call button and begins registration in parallel with treatment.
+
+Q: What is the process for discharge-related front desk activities?
+A: The receptionist verifies the discharge summary signed by the treating doctor, confirms that the billing department has cleared all dues (No Dues Certificate), and returns any deposited valuables or original documents to the patient before exit.
+
+Q: Can family members get updates about a patient's condition from reception?
+A: Reception does not provide clinical updates. Family members are directed to the ward nurse station or the treating doctor's office for medical updates, in accordance with patient privacy policy.
+
+Q: What language support is available at the front desk?
+A: Reception staff are proficient in English, Hindi, and Telugu. A telephonic interpreter service is available for other regional languages (Tamil, Kannada, Marathi, Bengali) and for international patients (Arabic, French).
+
+## SECTION 7: ESCALATION MATRIX
+
+| Issue Type | First Contact | Escalation (if unresolved in 15 min) |
+|---|---|---|
+| Long wait times | Floor Supervisor | Front Office Manager (Ext. 1102) |
+| Billing disputes | Billing Desk Officer | Billing Manager (Ext. 1205) |
+| Insurance pre-auth delays | Insurance Desk Officer | TPA Coordinator (Ext. 1310) |
+| Patient complaints (general) | Duty Manager | Patient Relations Officer (Ext. 1150) |
+| Medical emergency at desk | Nearest Nurse / Code Blue Button | ER Duty Doctor |

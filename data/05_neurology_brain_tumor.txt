@@ -1,0 +1,133 @@
+# NEUROLOGY & NEUROSURGERY (BRAIN TUMOR) DEPARTMENT — KNOWLEDGE BASE
+# Hospital: Vihara Multispeciality Hospital
+# Document Type: Clinical FAQs, Procedures, Doctor Profiles, Sample Case Records for RAG Ingestion
+# DISCLAIMER: This is SYNTHETIC TRAINING DATA for educational RAG/LLM application development.
+# It is NOT real patient data and must NOT be used for actual clinical decision-making.
+
+## SECTION 1: DEPARTMENT OVERVIEW
+
+The Neurology & Neurosurgery Department provides comprehensive care for disorders of the brain, spinal cord, nerves, and muscles, with a specialized Neuro-Oncology unit for brain and spinal tumors. The department includes a 10-bed Neuro ICU (NICU), a dedicated Tumor Board (multidisciplinary team), and access to Gamma Knife radiosurgery via partnership with the Oncology department.
+
+Q: What services does the department offer?
+A: Services include general neurology consultations, EEG (Electroencephalogram), EMG/NCS (Electromyography/Nerve Conduction Studies), MRI/CT-guided diagnostics, neurosurgery (craniotomy, tumor resection, spine surgery), stereotactic biopsy, Gamma Knife radiosurgery coordination, stroke management (thrombolysis), epilepsy management, and a dedicated Brain Tumor Clinic.
+
+Q: What are the OPD hours and location?
+A: Neurology/Neurosurgery OPD operates Monday-Saturday, 8:00 AM - 6:00 PM, located on the 2nd Floor, B Wing (Rooms N-301 to N-305). The Brain Tumor Clinic runs Tuesdays and Fridays, 10:00 AM - 1:00 PM (Room N-305), with the multidisciplinary Tumor Board meeting every Friday afternoon.
+
+## SECTION 2: DOCTOR PROFILES (SAMPLE)
+
+| Doctor Name | Designation | Specialization | OPD Days | Room |
+|---|---|---|---|---|
+| Dr. Vikram Sehgal | Senior Consultant Neurologist | General Neurology, Epilepsy | Mon, Wed, Fri | N-301 |
+| Dr. Priyanka Bose | Consultant Neurosurgeon | Brain Tumors, Skull Base Surgery | Tue, Thu, Sat | N-302 |
+| Dr. Arvind Krishnamurthy | Consultant Neurosurgeon | Spine Surgery | Mon, Thu | N-303 |
+| Dr. Vikram Sehgal (Stroke Clinic) | Senior Consultant | Stroke & Cerebrovascular Disease | Tue, Sat | N-304 |
+| Dr. Priyanka Bose (Tumor Clinic) | Consultant Neurosurgeon | Neuro-Oncology / Brain Tumor Clinic | Tue, Fri | N-305 |
+
+## SECTION 3: BRAIN TUMOR - PATIENT EDUCATION FAQs
+
+Q: What are the common types of brain tumors?
+A: Brain tumors are broadly classified as:
+- **Primary tumors** (originate in the brain): Gliomas (including Glioblastoma, Astrocytoma, Oligodendroglioma), Meningiomas, Pituitary Adenomas, Schwannomas (e.g., Acoustic Neuroma), Medulloblastomas (more common in children).
+- **Secondary/Metastatic tumors**: Cancer that has spread to the brain from another organ (lung, breast, kidney being common primary sites).
+Tumors are also classified as benign (non-cancerous, slow-growing, e.g., most meningiomas) or malignant (cancerous, aggressive, e.g., glioblastoma).
+
+Q: What are common symptoms that may indicate a brain tumor?
+A: Symptoms depend on tumor location and size but commonly include: persistent headaches (often worse in the morning), new-onset seizures, progressive weakness or numbness on one side of the body, vision or speech difficulties, balance/coordination problems, personality or cognitive changes, and nausea/vomiting unrelated to other causes. These symptoms warrant prompt neurological evaluation, not necessarily indicating a tumor, but require investigation.
+
+Q: How is a brain tumor diagnosed?
+A: Diagnosis typically involves:
+1. Clinical neurological examination
+2. MRI Brain with contrast (gold standard imaging) - shows tumor location, size, and characteristics
+3. CT Brain (often used in emergency settings or if MRI is contraindicated)
+4. Biopsy (stereotactic or during surgery) - provides definitive histopathological diagnosis and grading
+5. Additional tests: MR Spectroscopy, Perfusion MRI, or PET scan for further characterization
+
+Q: What is "tumor grading" and why does it matter?
+A: The WHO grading system classifies brain tumors from Grade 1 (slow-growing, less aggressive, e.g., pilocytic astrocytoma) to Grade 4 (fast-growing, most aggressive, e.g., glioblastoma). Grading guides treatment planning (extent of surgery, need for radiation/chemotherapy) and helps estimate prognosis.
+
+Q: What are the treatment options for brain tumors?
+A: Treatment depends on tumor type, location, grade, and patient factors, and may include:
+- **Surgery (Craniotomy)**: Maximal safe resection is often the first step for accessible tumors
+- **Radiation Therapy**: Including conventional fractionated radiotherapy or Gamma Knife/stereotactic radiosurgery for smaller, well-defined tumors
+- **Chemotherapy**: Particularly for high-grade gliomas (e.g., Temozolomide for glioblastoma)
+- **Targeted Therapy/Immunotherapy**: For specific molecular subtypes (based on genetic testing of tumor tissue)
+- **Observation ("Watchful Waiting")**: For small, asymptomatic, slow-growing tumors (e.g., small meningiomas in elderly patients)
+A multidisciplinary Tumor Board (neurosurgeon, oncologist, radiation oncologist, pathologist, radiologist) reviews each case to recommend the optimal treatment plan.
+
+Q: What is a craniotomy and what does recovery involve?
+A: A craniotomy is a surgical procedure where a portion of the skull is temporarily removed to access the brain for tumor removal or other treatment. Recovery typically involves 1-2 days in the Neuro ICU, followed by 5-7 days in the ward, with physiotherapy and rehabilitation as needed. Full recovery can take 6-12 weeks, with follow-up MRI scans to monitor for residual tumor or recurrence.
+
+Q: What is Gamma Knife radiosurgery?
+A: Despite its name, Gamma Knife involves no actual cutting. It delivers precisely focused beams of radiation to a small, well-defined target (such as a small brain tumor, metastasis, or arteriovenous malformation) in a single session or a few sessions, minimizing damage to surrounding healthy brain tissue. It is often used for tumors that are small, deep-seated, or in surgically risky locations.
+
+## SECTION 4: SAMPLE NEUROLOGY/BRAIN TUMOR CASE RECORDS (SYNTHETIC DEMO DATA)
+
+### CASE 1
+UHID: VIH-2026-004523 | Name: Arjun Verma | Age/Sex: 45/M
+Chief Complaint: Progressive headache for 6 weeks, worse in mornings, with one episode of seizure (generalized tonic-clonic) 3 days ago.
+History: No prior seizure history. No significant past medical history. Non-smoker, non-alcoholic.
+Examination: Mild left-sided weakness (Grade 4/5 power), papilledema noted on fundoscopy.
+Investigations:
+- MRI Brain with Contrast: 4.2 cm x 3.8 cm heterogeneously enhancing mass in the right frontal lobe with surrounding edema, mass effect with 6mm midline shift. Findings suggestive of high-grade glioma.
+- MR Spectroscopy: Elevated choline/creatine ratio, reduced NAA, consistent with high-grade neoplasm.
+Diagnosis: Right frontal lobe mass, likely high-grade glioma (provisional, pending histopathology)
+Plan: Started on Dexamethasone (to reduce cerebral edema) and Levetiracetam (anti-seizure medication). Case presented at Tumor Board. Plan for awake craniotomy with maximal safe resection, intraoperative neuro-monitoring, followed by histopathology and molecular profiling (IDH mutation status, MGMT methylation) to guide adjuvant therapy.
+Outcome: Surgery performed; gross total resection achieved. Histopathology confirmed Glioblastoma (WHO Grade 4), MGMT methylated (favorable for Temozolomide response). Patient referred to Oncology for adjuvant radiotherapy + Temozolomide chemotherapy (Stupp protocol). NICU stay: 2 days; total hospital stay: 9 days.
+
+### CASE 2
+UHID: VIH-2026-004527 | Name: George Thomas | Age/Sex: 71/M
+Chief Complaint: Gradual hearing loss in the right ear over 1 year, recent unsteadiness while walking, and occasional facial numbness on the right side.
+History: Hypertensive, on Amlodipine 5mg. No diabetes.
+Examination: Sensorineural hearing loss (right ear) confirmed on audiometry, mild right facial hypoesthesia (trigeminal nerve distribution), positive Romberg's test.
+Investigations:
+- MRI Brain (Internal Auditory Canal protocol) with Contrast: 2.5 cm well-circumscribed, homogeneously enhancing mass in the right cerebellopontine angle, extending into the internal auditory canal, consistent with Vestibular Schwannoma (Acoustic Neuroma).
+Diagnosis: Right Vestibular Schwannoma (Acoustic Neuroma), likely benign (WHO Grade 1)
+Plan: Discussed at Tumor Board. Given tumor size and patient age, options discussed: microsurgical resection (retrosigmoid approach) vs. Gamma Knife radiosurgery vs. observation with serial MRI. Given mild symptoms and tumor size, patient opted for Gamma Knife radiosurgery to preserve residual hearing and minimize surgical risk.
+Outcome: Single-session Gamma Knife radiosurgery performed (margin dose 12.5 Gy). Patient discharged same day with advice for MRI follow-up at 6 months, 1 year, and annually thereafter to monitor tumor response (typically growth arrest or shrinkage over 1-3 years).
+
+### CASE 3 (PEDIATRIC)
+UHID: VIH-2026-004601 | Name: Master Aryan Reddy | Age/Sex: 7/M
+Chief Complaint: Early morning vomiting for 3 weeks, unsteady gait, and increasing irritability noted by parents.
+History: Born full-term, normal development until 2 months ago. No prior illness.
+Examination: Ataxic gait, bilateral papilledema, dysmetria on finger-nose testing (cerebellar signs).
+Investigations:
+- MRI Brain with Contrast: 3.5 cm midline mass in the posterior fossa (fourth ventricle region) with obstructive hydrocephalus (dilated lateral and third ventricles). Findings suggestive of Medulloblastoma.
+- MRI Spine with Contrast: No evidence of drop metastases.
+Diagnosis: Posterior fossa tumor, likely Medulloblastoma, with obstructive hydrocephalus
+Plan: Urgent neurosurgical referral. Pre-operative External Ventricular Drain (EVD) placement to manage hydrocephalus, followed by posterior fossa craniotomy for maximal safe tumor resection. Post-surgical plan includes craniospinal radiation and chemotherapy per pediatric oncology protocol (in coordination with pediatric oncology team).
+Outcome: EVD placed; near-total resection achieved 2 days later. Histopathology confirmed Medulloblastoma (WHO Grade 4, classic histology). NICU stay: 4 days. Referred to Pediatric Oncology for adjuvant craniospinal irradiation and chemotherapy (per Children's Oncology Group protocol). Family counseled extensively regarding prognosis and long-term follow-up plan.
+
+## SECTION 5: COMMON NEUROLOGICAL MEDICATIONS - REFERENCE GUIDE
+
+| Medication | Class | Common Use | Typical Dose Range |
+|---|---|---|---|
+| Levetiracetam | Anti-epileptic | Seizure prevention/control | 500-1500 mg BD |
+| Dexamethasone | Corticosteroid | Reduce cerebral edema (tumor-associated) | 4-16 mg/day, tapering |
+| Mannitol | Osmotic diuretic | Acute reduction of raised ICP | 0.5-1 g/kg IV bolus |
+| Temozolomide | Chemotherapy (alkylating agent) | Glioblastoma, high-grade gliomas | 75-200 mg/m² per protocol |
+| Phenytoin | Anti-epileptic | Seizure control | 100 mg TDS (dose per levels) |
+| Sumatriptan | Triptan | Acute migraine | 50-100 mg PRN |
+| Alteplase (tPA) | Thrombolytic | Acute ischemic stroke (within window) | Weight-based IV protocol |
+
+## SECTION 6: NICU AND TUMOR BOARD INFRASTRUCTURE
+
+Q: What is the bed capacity and equipment in the Neuro ICU (NICU)?
+A: The NICU has 10 beds equipped with ICP (Intracranial Pressure) monitoring systems, ventilators, continuous EEG monitoring capability, and dedicated neuro-critical care trained nursing staff (nurse-to-patient ratio 1:1 for ventilated patients, 1:2 otherwise).
+
+Q: What is the Tumor Board and how often does it meet?
+A: The Tumor Board is a multidisciplinary team comprising neurosurgeons, medical/radiation oncologists, neuroradiologists, and pathologists that meets every Friday afternoon to review complex neuro-oncology cases and formulate consensus treatment plans. Patients/families are informed of the Board's recommendation typically within 24-48 hours of the meeting.
+
+## SECTION 7: NEUROLOGY/NEUROSURGERY DEPARTMENT FAQs
+
+Q: How urgently should a patient with new-onset seizures be evaluated?
+A: New-onset seizures, especially in adults, warrant prompt evaluation (within 24-48 hours) including MRI brain and EEG, as they can be the first sign of structural brain abnormalities including tumors, requiring timely diagnosis and management.
+
+Q: Is genetic/molecular testing done for brain tumors at this hospital?
+A: Yes, for gliomas, molecular markers including IDH mutation status, MGMT promoter methylation, and 1p/19q co-deletion are tested on resected tumor tissue (processed in-house or sent to partner reference labs), as these significantly influence prognosis and treatment choice (e.g., chemotherapy responsiveness).
+
+Q: What support services are available for brain tumor patients and families?
+A: The hospital offers a Neuro-Oncology Counselor for psychological support, a Patient Navigator to help coordinate appointments across Neurosurgery/Oncology/Radiology, and connects families with patient support groups (e.g., Brain Tumor Foundation of India) upon request.
+
+Q: How soon after surgery can a patient expect to receive the final histopathology report?
+A: Standard histopathology takes 5-7 working days. If molecular/genetic profiling (IDH, MGMT, etc.) is included, the complete report may take 10-14 working days, as some molecular tests are sent to external reference laboratories.
